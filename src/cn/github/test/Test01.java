@@ -6,6 +6,7 @@ public class Test01 {
 		// TODO Auto-generated method stub
 		System.out.println("hello github 01");
 		System.out.println("localServer update here 0719");
+		System.out.println("gothib com here 0719");
 
 	}
 
